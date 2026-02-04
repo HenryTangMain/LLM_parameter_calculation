@@ -19,8 +19,5 @@ Memory and performance calculation guides for various LLM models:
 Tokenizer implementations for LLM processing:
 - **Llama3 tokenizer** - Implementation of the Llama3 tokenizer
 
-## Origin
-These folders were extracted from the [LLMs-from-scratch](https://github.com/HenryTangMain/LLMs-from-scratch) repository.
-
 ## Usage
 The markdown files and PDFs in the Parameter_Calculations folder provide formulas, examples, and detailed explanations for calculating various aspects of LLM memory usage and performance. The Tokenizer folder contains working code for tokenizing text using the Llama3 tokenizer.
